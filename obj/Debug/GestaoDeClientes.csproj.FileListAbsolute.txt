@@ -1,0 +1,8 @@
+D:\projetos-vscode\c#\GestaoDeClientes\bin\Debug\GestaoDeClientes.exe.config
+D:\projetos-vscode\c#\GestaoDeClientes\bin\Debug\GestaoDeClientes.exe
+D:\projetos-vscode\c#\GestaoDeClientes\bin\Debug\GestaoDeClientes.pdb
+D:\projetos-vscode\c#\GestaoDeClientes\obj\Debug\GestaoDeClientes.csproj.AssemblyReference.cache
+D:\projetos-vscode\c#\GestaoDeClientes\obj\Debug\GestaoDeClientes.csproj.SuggestedBindingRedirects.cache
+D:\projetos-vscode\c#\GestaoDeClientes\obj\Debug\GestaoDeClientes.csproj.CoreCompileInputs.cache
+D:\projetos-vscode\c#\GestaoDeClientes\obj\Debug\GestaoDeClientes.exe
+D:\projetos-vscode\c#\GestaoDeClientes\obj\Debug\GestaoDeClientes.pdb
